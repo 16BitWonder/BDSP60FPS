@@ -1,4 +1,4 @@
-# BD60FPS
+# BDSP60FPS
 Collection of 60/30 FPS cheat codes I've made for Pokemon Brilliant Diamond / Shining Pearl.
 
 To use the BD cheats, place the BD cheat files into SD:/atmosphere/contents/0100000011D90000/cheats/...
